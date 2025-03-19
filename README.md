@@ -5,7 +5,7 @@ A ComfyUI custom node that integrates DeepSeek API to generate prompts dynamical
 ### Method 1: Clone directly
 ```bash
 cd ComfyUI/custom_nodes/
-git clone https://github.com/yourname/comfyui_Deepseek.git
+git clone https://github.com/VisioStar/comfyui_Deepseek.git
 
 Usage
 Restart ComfyUI.
