@@ -1,8 +1,5 @@
 # comfyui_Deepseek
 A ComfyUI custom node that integrates DeepSeek API to generate prompts dynamically.
-# ComfyUI Deepseek
-
-A ComfyUI custom node that integrates DeepSeek API to generate prompts dynamically.
 
 ## 🚀 Installation
 ### Method 1: Clone directly
